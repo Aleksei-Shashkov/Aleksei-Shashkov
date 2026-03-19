@@ -1,7 +1,7 @@
 
 # Hello, I'm Aleksei! 
 
-#### Data Analyst / BI Analist / Statistical Analyst
+### Data Analyst / BI Analist / Statistical Analyst
 #### 20+ Years of IT Expertise & 5 Years of Internal Audit Experience
 
 ---
