@@ -1,7 +1,7 @@
 
 # Hello, I'm Aleksei! 
 
-** Data Analyst & BI Analist & Statistical Analyst  | 20 Years of IT Expertise & 5 Years of Internal Audit Experience **
+Data Analyst & BI Analist & Statistical Analyst | 20+ Years of IT Expertise & 5 Years of Internal Audit Experience
 
 ---
 
@@ -9,8 +9,9 @@
 
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-2E7D32?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
   <img src="https://img.shields.io/badge/Python-2E7D32?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/SQL-2E7D32?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/MySQL-2E7D32?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   <img src="https://img.shields.io/badge/Visual%20Basic-2E7D32?style=for-the-badge&logo=visual-basic&logoColor=white" alt="visualbasic" />
   <img src="https://img.shields.io/badge/Pascal-2E7D32?style=for-the-badge&logo=delphi&logoColor=white" alt="pascal" />
   <img src="https://img.shields.io/badge/Delphi-2E7D32?style=for-the-badge&logo=delphi&logoColor=white" alt="delphi" />
@@ -18,16 +19,16 @@
 
 **Data Analysis & Visualization**
 <p align="left">
-  <img src="https://img.shields.io/badge/MS%20Excel-150458?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-150458?style=for-the-badge&logo=google-sheets&logoColor=white" alt="sheets" />
   <img src="https://img.shields.io/badge/PowerBI-150458?style=for-the-badge&logo=PowerBI&logoColor=white" alt="powerbi" />
   <img src="https://img.shields.io/badge/Tableau-150458?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" />
+  <img src="https://img.shields.io/badge/MS%20Excel-150458?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-150458?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
   <img src="https://img.shields.io/badge/Streamlit-150458?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
   <img src="https://img.shields.io/badge/Qlik%20Sense-150458?style=for-the-badge&logo=qlik&logoColor=white" alt="qliksense" />
   <img src="https://img.shields.io/badge/SAS-150458?style=for-the-badge&logo=sas&logoColor=white" alt="sas" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-150458?style=for-the-badge&logo=google-sheets&logoColor=white" alt="sheets" />
   <img src="https://img.shields.io/badge/Arbutus%20Analytics-150458?style=for-the-badge&logo=google-analytics&logoColor=white" alt="arbutus" />
 </p>
 
