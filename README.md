@@ -9,25 +9,24 @@
 
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
-  <img src="https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Visual%20Basic-4479A1?style=for-the-badge&logo=visual-basic&logoColor=white" alt="visualbasic" />
-  <img src="https://img.shields.io/badge/Pascal-4479A1?style=for-the-badge&logo=delphi&logoColor=white" alt="pascal" />
-  <img src="https://img.shields.io/badge/Delphi-4479A1?style=for-the-badge&logo=delphi&logoColor=white" alt="delphi" />
+  <img src="https://img.shields.io/badge/SQL-27AE60?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/Python-27AE60?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Visual%20Basic-27AE60?style=for-the-badge&logo=visual-basic&logoColor=white" alt="visualbasic" />
+  <img src="https://img.shields.io/badge/Pascal-27AE60?style=for-the-badge&logo=delphi&logoColor=white" alt="pascal" />
+  <img src="https://img.shields.io/badge/Delphi-27AE60?style=for-the-badge&logo=delphi&logoColor=white" alt="delphi" />
 </p>
 
 **Data Analysis & Visualization**
 <p align="left">
   <img src="https://img.shields.io/badge/PowerBI-150458?style=for-the-badge&logo=PowerBI&logoColor=white" alt="powerbi" />
-  <img src="https://img.shields.io/badge/Tableau-4479A1?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" />
+  <img src="https://img.shields.io/badge/Tableau-150458?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-150458?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
-</p>
   <img src="https://img.shields.io/badge/Streamlit-150458?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
-  <img src="https://img.shields.io/badge/Qlik%20Sense-4479A1?style=for-the-badge&logo=qlik&logoColor=white" alt="qliksense" />
-  <img src="https://img.shields.io/badge/SAS-4479A1?style=for-the-badge&logo=sas&logoColor=white" alt="sas" />
-  <img src="https://img.shields.io/badge/Arbutus%20Analytics-4479A1?style=for-the-badge&logo=google-analytics&logoColor=white" alt="arbutus" />
+  <img src="https://img.shields.io/badge/Qlik%20Sense-150458?style=for-the-badge&logo=qlik&logoColor=white" alt="qliksense" />
+  <img src="https://img.shields.io/badge/SAS-150458?style=for-the-badge&logo=sas&logoColor=white" alt="sas" />
+  <img src="https://img.shields.io/badge/Arbutus%20Analytics-150458?style=for-the-badge&logo=google-analytics&logoColor=white" alt="arbutus" /> alt="arbutus" />
   
   
   
