@@ -18,13 +18,19 @@
 
 **Data Analysis & Visualization**
 <p align="left">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/PowerBI-150458?style=for-the-badge&logo=PowerBI&logoColor=white" alt="powerbi" />
-  <img src="https://img.shields.io/badge/Streamlit-150458?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
+  <img src="https://img.shields.io/badge/Tableau-4479A1?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-150458?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
 </p>
-
+  <img src="https://img.shields.io/badge/Streamlit-150458?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
+  <img src="https://img.shields.io/badge/Qlik%20Sense-4479A1?style=for-the-badge&logo=qlik&logoColor=white" alt="qliksense" />
+  <img src="https://img.shields.io/badge/SAS-4479A1?style=for-the-badge&logo=sas&logoColor=white" alt="sas" />
+  <img src="https://img.shields.io/badge/Arbutus%20Analytics-4479A1?style=for-the-badge&logo=google-analytics&logoColor=white" alt="arbutus" />
+  
+  
+  
 **Advanced Data Platforms & Cloud**
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="fabric" />
