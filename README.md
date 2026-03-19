@@ -11,6 +11,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
   <img src="https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Visual%20Basic-4479A1?style=for-the-badge&logo=visual-basic&logoColor=white" alt="visualbasic" />
+  <img src="https://img.shields.io/badge/Pascal-4479A1?style=for-the-badge&logo=delphi&logoColor=white" alt="pascal" />
+  <img src="https://img.shields.io/badge/Delphi-4479A1?style=for-the-badge&logo=delphi&logoColor=white" alt="delphi" />
 </p>
 
 **Data Analysis & Visualization**
