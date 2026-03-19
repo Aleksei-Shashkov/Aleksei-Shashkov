@@ -7,17 +7,33 @@
 
 ### 🧰 Tools & Technologies
 
+Я скорректировал все ссылки согласно выбранной цветовой схеме. Теперь ваш стек выглядит как профессиональная структурированная карта навыков.
+
+Цвета в коде:
+
+Languages: Зеленый (2E7D32)
+
+Analysis & Visualization: Темно-синий (150458) — сюда я добавил Excel и Google Sheets.
+
+Cloud & Platforms: Оранжевый (EF6C00)
+
+Workflow & Automation: Фиолетовый (6A1B9A)
+
+Итоговый код для вашего README.md
+Markdown
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-27AE60?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
-  <img src="https://img.shields.io/badge/Python-27AE60?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Visual%20Basic-27AE60?style=for-the-badge&logo=visual-basic&logoColor=white" alt="visualbasic" />
-  <img src="https://img.shields.io/badge/Pascal-27AE60?style=for-the-badge&logo=delphi&logoColor=white" alt="pascal" />
-  <img src="https://img.shields.io/badge/Delphi-27AE60?style=for-the-badge&logo=delphi&logoColor=white" alt="delphi" />
+  <img src="https://img.shields.io/badge/SQL-2E7D32?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/Python-2E7D32?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Visual%20Basic-2E7D32?style=for-the-badge&logo=visual-basic&logoColor=white" alt="visualbasic" />
+  <img src="https://img.shields.io/badge/Pascal-2E7D32?style=for-the-badge&logo=delphi&logoColor=white" alt="pascal" />
+  <img src="https://img.shields.io/badge/Delphi-2E7D32?style=for-the-badge&logo=delphi&logoColor=white" alt="delphi" />
 </p>
 
 **Data Analysis & Visualization**
 <p align="left">
+  <img src="https://img.shields.io/badge/MS%20Excel-150458?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-150458?style=for-the-badge&logo=google-sheets&logoColor=white" alt="sheets" />
   <img src="https://img.shields.io/badge/PowerBI-150458?style=for-the-badge&logo=PowerBI&logoColor=white" alt="powerbi" />
   <img src="https://img.shields.io/badge/Tableau-150458?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
@@ -26,24 +42,23 @@
   <img src="https://img.shields.io/badge/Streamlit-150458?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
   <img src="https://img.shields.io/badge/Qlik%20Sense-150458?style=for-the-badge&logo=qlik&logoColor=white" alt="qliksense" />
   <img src="https://img.shields.io/badge/SAS-150458?style=for-the-badge&logo=sas&logoColor=white" alt="sas" />
-  <img src="https://img.shields.io/badge/Arbutus%20Analytics-150458?style=for-the-badge&logo=google-analytics&logoColor=white" alt="arbutus" /> alt="arbutus" />
-  
-  
-  
+  <img src="https://img.shields.io/badge/Arbutus%20Analytics-150458?style=for-the-badge&logo=google-analytics&logoColor=white" alt="arbutus" />
+</p>
+
 **Advanced Data Platforms & Cloud**
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="fabric" />
-  <img src="https://img.shields.io/badge/Databricks-0078D4?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks" />
-  <img src="https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-functions" />
-  <img src="https://img.shields.io/badge/scikit--learn-0078D4?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-EF6C00?style=for-the-badge&logo=microsoft&logoColor=white" alt="fabric" />
+  <img src="https://img.shields.io/badge/Databricks-EF6C00?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks" />
+  <img src="https://img.shields.io/badge/Azure%20Functions-EF6C00?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-functions" />
+  <img src="https://img.shields.io/badge/scikit--learn-EF6C00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
 </p>
 
 **Workflow & Automation**
 <p align="left">
-  <img src="https://img.shields.io/badge/git-4D4D4D?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/AI%20Agents-4D4D4D?style=for-the-badge" alt="ai-agents" />
-  <img src="https://img.shields.io/badge/FastAPI-4D4D4D?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
-  <img src="https://img.shields.io/badge/docker-4D4D4D?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/git-6A1B9A?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6A1B9A?style=for-the-badge&logo=openai&logoColor=white" alt="ai-agents" />
+  <img src="https://img.shields.io/badge/FastAPI-6A1B9A?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
+  <img src="https://img.shields.io/badge/docker-6A1B9A?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 </p>
 
 ---
