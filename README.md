@@ -7,20 +7,6 @@
 
 ### 🧰 Tools & Technologies
 
-Я скорректировал все ссылки согласно выбранной цветовой схеме. Теперь ваш стек выглядит как профессиональная структурированная карта навыков.
-
-Цвета в коде:
-
-Languages: Зеленый (2E7D32)
-
-Analysis & Visualization: Темно-синий (150458) — сюда я добавил Excel и Google Sheets.
-
-Cloud & Platforms: Оранжевый (EF6C00)
-
-Workflow & Automation: Фиолетовый (6A1B9A)
-
-Итоговый код для вашего README.md
-Markdown
 **Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-2E7D32?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
