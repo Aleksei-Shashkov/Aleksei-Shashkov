@@ -98,8 +98,7 @@
 | Автоматизация инфраструктуры и управления данными в облаке. | Azure, Docker, GitHub Actions. | Контейнеризация приложений и настройка CI/CD пайплайнов для обработки данных. | Масштабируемая облачная среда для автоматизированных аналитических задач. |
 | <td colspan="4" bgcolor="#e6ffed">[Final-Project-BeCode](https://github.com/Aleksei-Shashkov/Final-Project-BeCode)</td> |
 | Решение комплексной задачи Data Science от сбора данных до продакшн-решения. | Python, ML, Data Engineering. | Интеграция различных источников данных и создание сквозного аналитического пайплайна. | Финальный проект курса, демонстрирующий готовность к работе с реальными кейсами. |
-| <td colspan="4" bgcolor="#e6ffed">[Aleksei-Shashkov](https://github.com/Aleksei-Shashkov/Aleksei-Shashkov)</td> |
-| Создание профессионального профиля и навигации по репозиториям. | Markdown, GitHub Profile. | Структурирование информации о навыках, инструментах и контактах. | Центральная страница профиля с удобным доступом к портфолио проектов. |
+
 🏠 [**Immo Eliza — End-to-End Real Estate Analysis**](https://github.com/Aleksei-Shashkov/immo-eliza-deployment)  
 An end-to-end machine learning solution to predict property prices in the Belgian real estate market.  
 **Full Pipeline:** 
