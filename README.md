@@ -79,21 +79,21 @@
 | Goal | Tools | Key Actions | Result |
 | :--- | :--- | :--- | :--- |
 | <td colspan="4" bgcolor="#e6ffed">[immo-eliza-scraping-python_power_bi](https://github.com/Aleksei-Shashkov/immo-eliza-scraping-python_power_bi)</td> |
-| Collect Belgian real estate data from web resources for further analysis. | Python, BeautifulSoup, Selenium, Pandas. | Developed a scraper to handle pagination and extract property features (price, area, type). | Structured dataset with 10,000+ real estate records. |
+| [cite_start]Collect Belgian real estate data from web resources for further analysis. | [cite_start]Python, BeautifulSoup, Selenium, Pandas. | [cite_start]Developed a scraper to handle pagination and extract property features like price, area, and type. | [cite_start]Structured dataset with 10,000+ real estate records. |
 | <td colspan="4" bgcolor="#e6ffed">[immo-eliza-analysis](https://github.com/Aleksei-Shashkov/immo-eliza-analysis)</td> |
-| Data cleaning and Exploratory Data Analysis (EDA) of the real estate market. | Python, Pandas, Matplotlib, Seaborn. | Handled missing values, removed outliers, and analyzed correlations between features and price. | Visualization of key pricing factors across Belgian regions. |
+| Data cleaning and Exploratory Data Analysis (EDA) of the Belgian real estate market. | Python, Pandas, Matplotlib, Seaborn. | Handled missing values, removed outliers, and analyzed correlations between features and price. | [cite_start]Visualization of key pricing factors across different Belgian regions. |
 | <td colspan="4" bgcolor="#e6ffed">[immo-eliza-ml](https://github.com/Aleksei-Shashkov/immo-eliza-ml)</td> |
 | Create a machine learning model to estimate real estate property values. | Python, Scikit-learn, XGBoost, Random Forest. | Feature engineering and selection of regression algorithms using cross-validation. | Trained model with ~80% accuracy (R²) for automated property valuation. |
 | <td colspan="4" bgcolor="#e6ffed">[immo-eliza-deployment](https://github.com/Aleksei-Shashkov/immo-eliza-deployment)</td> |
-| Deploy the predictive model as an interactive web service. | FastAPI, Streamlit, Docker, Render. | Built a REST API and a user interface for property parameter input. | Live web application providing instant price forecasts. |
+| Deploy the predictive model as an interactive web service. | FastAPI, Streamlit, Docker, Render. | Built a REST API and a user interface for property parameter input. | [cite_start]Live web application providing instant price forecasts. |
 | <td colspan="4" bgcolor="#e6ffed">[Portfolio_Forecasting_and_Optimization](https://github.com/Aleksei-Shashkov/Portfolio_Forecasting_and_Optimization)</td> |
 | Analysis, optimization, and forecasting of investment portfolio returns. | Python, yfinance, Riskfolio-Lib, ARIMA, Streamlit. | Data acquisition via API, risk profile calculation, and stock price forecasting. | Recommendation system for asset allocation based on risk-return balance. |
 | <td colspan="4" bgcolor="#e6ffed">[Power-BI-Portfolio](https://github.com/Aleksei-Shashkov/Power-BI-Portfolio)</td> |
-| Visualize business metrics and create interactive business intelligence (BI) reports. | Power BI, DAX, Power Query, SQL. | Constructed relational data models and calculated complex KPIs (including ArcelorMittal case). | Set of dashboards for identifying process bottlenecks and forecasting trends. |
+| Visualize business metrics and create interactive business intelligence (BI) reports. | Power BI, DAX, Power Query, SQL. | Constructed relational data models and calculated complex KPIs, including the ArcelorMittal case. | Set of dashboards for identifying process bottlenecks and forecasting trends. |
 | <td colspan="4" bgcolor="#e6ffed">[Delivery-Market-Analysis](https://github.com/Aleksei-Shashkov/Delivery-Market-Analysis)</td> |
-| Analyze delivery service efficiency and identify market patterns. | SQL, Python, Folium, Seaborn. | Performed SQL-based cohort analysis and created geospatial heatmaps of order density. | Identification of growth zones and logistics route optimization based on data. |
+| Analyze delivery service efficiency and identify market patterns. | SQL, Python, Folium, Seaborn. | Performed SQL-based trend analysis and created geospatial heatmaps of order density. | Identification of growth zones and logistics route optimization based on data. |
 | <td colspan="4" bgcolor="#e6ffed">[Data-Analyst-Projects](https://github.com/Aleksei-Shashkov/Data-Analyst-Projects)</td> |
-| Comprehensive financial analysis and unit economics calculation for business models. | MS Excel, Unit Economics, Statistics. | Modeled payback scenarios (CAC, LTR, Retention) for online services. | Forecast for reaching a 25% target margin and profit recovery plan. |
+| Financial analysis and unit economics calculation for business models. | MS Excel, Unit Economics, Statistics. | Modeled payback scenarios (CAC, LTR, Retention) for online services. | Forecast for reaching a 25% target margin and profit recovery plan. |
 | <td colspan="4" bgcolor="#e6ffed">[Azure-Data-Challenge](https://github.com/Aleksei-Shashkov/Azure-Data-Challenge)</td> |
 | Automation of infrastructure and data management in the cloud. | Azure, Docker, GitHub Actions. | Containerized applications and configured CI/CD pipelines for data processing. | Scalable cloud environment for automated analytical tasks. |
 
