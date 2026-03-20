@@ -75,7 +75,7 @@
 
 ---
 
-### ⭐ Featured projects
+### ⭐ My projects
 <table>
   <thead>
     <tr>
