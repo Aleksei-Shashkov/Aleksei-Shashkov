@@ -78,28 +78,28 @@
 ### ⭐ Featured projects
 | Goal | Tools | Key Actions | Result |
 | :--- | :--- | :--- | :--- |
-| <td colspan="4" bgcolor="#e6ffed">[1. immo-eliza-scraping-python_power_bi](https://github.com/Aleksei-Shashkov/immo-eliza-scraping-python_power_bi)</td> |
-| Collect real estate data from the Belgian market for further analysis. | Python, BeautifulSoup, Selenium, Pandas. | Developed a web scraper to extract property details from multiple pages of a real estate portal. | A structured dataset containing information on thousands of properties across Belgium. |
-| <td colspan="4" bgcolor="#e6ffed">[2. immo-eliza-analysis](https://github.com/Aleksei-Shashkov/immo-eliza-analysis)</td> |
-| Clean and analyze the collected real estate data to uncover market insights. | Python, Pandas, Matplotlib, Seaborn. | Handled missing values, removed outliers, and performed statistical analysis on property prices. | Detailed visualizations and reports on price trends and correlations in the Belgian market. |
-| <td colspan="4" bgcolor="#e6ffed">[3. immo-eliza-ml](https://github.com/Aleksei-Shashkov/immo-eliza-ml)</td> |
-| Create a machine learning model to predict property prices based on various features. | Python, Scikit-learn, XGBoost, Random Forest. | Feature engineering, model selection, and hyperparameter tuning using cross-validation. | A trained predictive model with high accuracy for property valuation. |
-| <td colspan="4" bgcolor="#e6ffed">[4. immo-eliza-deployment](https://github.com/Aleksei-Shashkov/immo-eliza-deployment)</td> |
-| Deploy the predictive model as a functional web application for end-users. | FastAPI, Streamlit, Docker, Render. | Built a REST API and a web interface; containerized the application for deployment. | A live application where users can get instant property price predictions. |
-| <td colspan="4" bgcolor="#e6ffed">[5. Portfolio_Forecasting_and_Optimization](https://github.com/Aleksei-Shashkov/Portfolio_Forecasting_and_Optimization)</td> |
-| Build an interactive tool for financial portfolio management and stock forecasting. | Python, yfinance, Riskfolio-Lib, ARIMA, Streamlit. | Automated data fetching via API and implemented various portfolio optimization strategies. | An AI-driven dashboard providing investment recommendations and risk assessments. |
-| <td colspan="4" bgcolor="#e6ffed">[6. Power-BI-Portfolio](https://github.com/Aleksei-Shashkov/Power-BI-Portfolio)</td> |
-| Showcase various business intelligence solutions and interactive dashboards. | Power BI, DAX, Power Query, SQL. | Integrated data from different sources and created complex measures to track KPIs. | A collection of professional dashboards including the HR Sick Leave Analysis for ArcelorMittal. |
-| <td colspan="4" bgcolor="#e6ffed">[7. Delivery-Market-Analysis](https://github.com/Aleksei-Shashkov/Delivery-Market-Analysis)</td> |
-| Analyze delivery service performance and market trends using data-driven methods. | SQL, Python, Folium, Seaborn. | Performed SQL-based cohort analysis and created geospatial maps of delivery hotspots. | Identification of key growth areas and efficiency bottlenecks in the delivery network. |
-| <td colspan="4" bgcolor="#e6ffed">[8. Data-Analyst-Projects](https://github.com/Aleksei-Shashkov/Data-Analyst-Projects)</td> |
-| Consolidate various analytical tasks including financial modeling and business case studies. | Excel, Python, Statistics. | Built financial models for online businesses and analyzed unit economics metrics. | Actionable business recommendations and established profit recovery forecasts. |
-| <td colspan="4" bgcolor="#e6ffed">[9. Azure-Data-Challenge](https://github.com/Aleksei-Shashkov/Azure-Data-Challenge)</td> |
-| Set up and manage automated data pipelines within a cloud environment. | Azure, Docker, GitHub Actions. | Configured cloud resources and automated the deployment of containerized data tools. | A scalable cloud infrastructure supporting automated data processing. |
-| <td colspan="4" bgcolor="#e6ffed">[10. Final-Project-BeCode](https://github.com/Aleksei-Shashkov/Final-Project-BeCode)</td> |
-| Apply the full range of Data Science skills to a comprehensive real-world problem. | Python, Machine Learning, Data Engineering. | Integrated various data sources and developed an end-to-end analytical pipeline. | A complete, documented project demonstrating professional readiness in Data Science. |
-| <td colspan="4" bgcolor="#e6ffed">[11. Aleksei-Shashkov (Profile README)](https://github.com/Aleksei-Shashkov/Aleksei-Shashkov)</td> |
-| Manage and present personal professional information and project summary. | Markdown, GitHub Profile. | Structured the overview of skills, tools, and contact information. | A central landing page for the GitHub profile with clear navigation. |
+| <td colspan="4" bgcolor="#e6ffed">[immo-eliza-scraping-python_power_bi](https://github.com/Aleksei-Shashkov/immo-eliza-scraping-python_power_bi)</td> |
+| Сбор данных о недвижимости Бельгии с веб-ресурсов для последующего анализа. | Python, BeautifulSoup, Selenium, Pandas. | Разработка скрапера для обхода пагинации и извлечения характеристик объектов (цена, площадь, тип). | Структурированный датасет с 10 000+ записей о недвижимости. |
+| <td colspan="4" bgcolor="#e6ffed">[immo-eliza-analysis](https://github.com/Aleksei-Shashkov/immo-eliza-analysis)</td> |
+| Очистка и исследовательский анализ данных (EDA) рынка недвижимости. | Python, Pandas, Matplotlib, Seaborn. | Обработка пропусков, удаление выбросов и анализ корреляций между параметрами жилья и ценой. | Визуализация ключевых факторов ценообразования по регионам Бельгии. |
+| <td colspan="4" bgcolor="#e6ffed">[immo-eliza-ml](https://github.com/Aleksei-Shashkov/immo-eliza-ml)</td> |
+| Создание модели машинного обучения для оценки стоимости недвижимости. | Python, Scikit-learn, XGBoost, Random Forest. | Инженерия признаков и выбор алгоритмов регрессии с использованием кросс-валидации. | Обученная модель с точностью (R²) около 80% для автоматической оценки объектов. |
+| <td colspan="4" bgcolor="#e6ffed">[immo-eliza-deployment](https://github.com/Aleksei-Shashkov/immo-eliza-deployment)</td> |
+| Развертывание модели в виде интерактивного веб-сервиса. | FastAPI, Streamlit, Docker, Render. | Создание API-интерфейса и пользовательского интерфейса для ввода параметров недвижимости. | Доступное веб-приложение, выдающее моментальный прогноз цены. |
+| <td colspan="4" bgcolor="#e6ffed">[Portfolio_Forecasting_and_Optimization](https://github.com/Aleksei-Shashkov/Portfolio_Forecasting_and_Optimization)</td> |
+| Анализ, оптимизация и прогнозирование доходности инвестиционного портфеля. | Python, yfinance, Riskfolio-Lib, ARIMA, Streamlit. | Получение исторических данных через API, расчет риск-профиля и прогноз котировок. | Система рекомендаций по распределению активов на основе баланса риска и прибыли. |
+| <td colspan="4" bgcolor="#e6ffed">[Power-BI-Portfolio](https://github.com/Aleksei-Shashkov/Power-BI-Portfolio)</td> |
+| Визуализация бизнес-метрик и создание интерактивной отчетности (BI). | Power BI, DAX, Power Query, SQL. | Построение реляционных моделей данных и расчет сложных KPI (включая кейс ArcelorMittal). | Набор дашбордов для выявления узких мест в бизнес-процессах и прогнозирования трендов. |
+| <td colspan="4" bgcolor="#e6ffed">[Delivery-Market-Analysis](https://github.com/Aleksei-Shashkov/Delivery-Market-Analysis)</td> |
+| Анализ эффективности служб доставки и выявление рыночных паттернов. | SQL, Python, Folium, Seaborn. | Когортный анализ на SQL и создание гео-карт плотности заказов. | Выявление зон роста и оптимизация логистических маршрутов на основе данных. |
+| <td colspan="4" bgcolor="#e6ffed">[Data-Analyst-Projects](https://github.com/Aleksei-Shashkov/Data-Analyst-Projects)</td> |
+| Комплексный финансовый анализ и расчет юнит-экономики бизнес-моделей. | MS Excel, Unit Economics, Statistics. | Моделирование сценариев окупаемости (CAC, LTR, Retention) для онлайн-сервисов. | Прогноз выхода на целевую маржинальность 25% и план восстановления прибыли. |
+| <td colspan="4" bgcolor="#e6ffed">[Azure-Data-Challenge](https://github.com/Aleksei-Shashkov/Azure-Data-Challenge)</td> |
+| Автоматизация инфраструктуры и управления данными в облаке. | Azure, Docker, GitHub Actions. | Контейнеризация приложений и настройка CI/CD пайплайнов для обработки данных. | Масштабируемая облачная среда для автоматизированных аналитических задач. |
+| <td colspan="4" bgcolor="#e6ffed">[Final-Project-BeCode](https://github.com/Aleksei-Shashkov/Final-Project-BeCode)</td> |
+| Решение комплексной задачи Data Science от сбора данных до продакшн-решения. | Python, ML, Data Engineering. | Интеграция различных источников данных и создание сквозного аналитического пайплайна. | Финальный проект курса, демонстрирующий готовность к работе с реальными кейсами. |
+| <td colspan="4" bgcolor="#e6ffed">[Aleksei-Shashkov](https://github.com/Aleksei-Shashkov/Aleksei-Shashkov)</td> |
+| Создание профессионального профиля и навигации по репозиториям. | Markdown, GitHub Profile. | Структурирование информации о навыках, инструментах и контактах. | Центральная страница профиля с удобным доступом к портфолио проектов. |
 🏠 [**Immo Eliza — End-to-End Real Estate Analysis**](https://github.com/Aleksei-Shashkov/immo-eliza-deployment)  
 An end-to-end machine learning solution to predict property prices in the Belgian real estate market.  
 **Full Pipeline:** 
