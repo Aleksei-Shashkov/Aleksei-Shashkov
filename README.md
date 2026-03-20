@@ -103,9 +103,9 @@
       </td>
     </tr>
     <tr>
-      <td>Data cleaning and Exploratory Data Analysis (EDA) of the Belgian real estate market[cite: 23].</td>
-      <td>Python, Pandas, Matplotlib, Seaborn[cite: 23].</td>
-      <td>Handled missing values, removed outliers, and analyzed correlations between features and price[cite: 23].</td>
+      <td>Data cleaning and Exploratory Data Analysis (EDA) of the Belgian real estate market.</td>
+      <td>Python, Pandas, Matplotlib, Seaborn.</td>
+      <td>Handled missing values, removed outliers, and analyzed correlations between features and price.</td>
       <td>Visualization of key pricing factors across different Belgian regions.</td>
     </tr>
     <tr>
@@ -114,10 +114,10 @@
       </td>
     </tr>
     <tr>
-      <td>Create a machine learning model to estimate real estate property values[cite: 23].</td>
-      <td>Python, Scikit-learn, XGBoost, Random Forest[cite: 23].</td>
-      <td>Feature engineering and selection of regression algorithms using cross-validation[cite: 23].</td>
-      <td>Trained model with ~80% accuracy (R²) for automated property valuation[cite: 23].</td>
+      <td>Create a machine learning model to estimate real estate property values.</td>
+      <td>Python, Scikit-learn, XGBoost, Random Forest.</td>
+      <td>Feature engineering and selection of regression algorithms using cross-validation.</td>
+      <td>Trained model with ~80% accuracy (R²) for automated property valuation.</td>
     </tr>
     <tr>
       <td colspan="4" bgcolor="#e6ffed">
@@ -125,9 +125,9 @@
       </td>
     </tr>
     <tr>
-      <td>Deploy the predictive model as an interactive web service[cite: 23].</td>
-      <td>FastAPI, Streamlit, Docker, Render[cite: 23].</td>
-      <td>Built a REST API and a user interface for property parameter input[cite: 23].</td>
+      <td>Deploy the predictive model as an interactive web service.</td>
+      <td>FastAPI, Streamlit, Docker, Render.</td>
+      <td>Built a REST API and a user interface for property parameter input.</td>
       <td>Live web application providing instant price forecasts.</td>
     </tr>
     <tr>
@@ -136,10 +136,10 @@
       </td>
     </tr>
     <tr>
-      <td>Analysis, optimization, and forecasting of investment portfolio returns[cite: 23].</td>
-      <td>Python, yfinance, Riskfolio-Lib, ARIMA, Streamlit[cite: 23].</td>
-      <td>Data acquisition via API, risk profile calculation, and stock price forecasting[cite: 23].</td>
-      <td>Recommendation system for asset allocation based on risk-return balance[cite: 23].</td>
+      <td>Analysis, optimization, and forecasting of investment portfolio returns.</td>
+      <td>Python, yfinance, Riskfolio-Lib, ARIMA, Streamlit.</td>
+      <td>Data acquisition via API, risk profile calculation, and stock price forecasting.</td>
+      <td>Recommendation system for asset allocation based on risk-return balance.</td>
     </tr>
     <tr>
       <td colspan="4" bgcolor="#e6ffed">
@@ -147,10 +147,43 @@
       </td>
     </tr>
     <tr>
-      <td>Visualize business metrics and create interactive BI reports[cite: 23].</td>
-      <td>Power BI, DAX, Power Query, SQL[cite: 23].</td>
-      <td>Constructed relational data models and calculated KPIs (including ArcelorMittal case)[cite: 23].</td>
-      <td>Dashboards for identifying process bottlenecks and forecasting trends[cite: 23].</td>
+      <td>Visualize business metrics and create interactive BI reports.</td>
+      <td>Power BI, DAX, Power Query, SQL.</td>
+      <td>Constructed relational data models and calculated KPIs (including ArcelorMittal case).</td>
+      <td>Dashboards for identifying process bottlenecks and forecasting trends.</td>
+    </tr>
+    <tr>
+      <td colspan="4" bgcolor="#e6ffed">
+        <a href="https://github.com/Aleksei-Shashkov/Delivery-Market-Analysis">Delivery-Market-Analysis</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Analyze delivery service efficiency and identify market patterns.</td>
+      <td>SQL, Python, Folium, Seaborn.</td>
+      <td>Performed SQL-based cohort analysis and created geospatial heatmaps of order density.</td>
+      <td>Identification of growth zones and logistics route optimization based on data.</td>
+    </tr>
+    <tr>
+      <td colspan="4" bgcolor="#e6ffed">
+        <a href="https://github.com/Aleksei-Shashkov/Data-Analyst-Projects">Data-Analyst-Projects</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Financial analysis and unit economics calculation for business models.</td>
+      <td>MS Excel, Unit Economics, Statistics.</td>
+      <td>Modeled payback scenarios (CAC, LTR, Retention) for online services.</td>
+      <td>Forecast for reaching a 25% target margin and profit recovery plan.</td>
+    </tr>
+    <tr>
+      <td colspan="4" bgcolor="#e6ffed">
+        <a href="https://github.com/Aleksei-Shashkov/Azure-Data-Challenge">Azure-Data-Challenge</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Automation of infrastructure and data management in the cloud.</td>
+      <td>Azure, Docker, GitHub Actions.</td>
+      <td>Containerized applications and configured CI/CD pipelines for data processing.</td>
+      <td>Scalable cloud environment for automated analytical tasks.</td>
     </tr>
   </tbody>
 </table>
