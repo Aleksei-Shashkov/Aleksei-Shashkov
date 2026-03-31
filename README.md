@@ -77,116 +77,224 @@
 
 ### ⭐ My projects
 <table>
-  <thead>
-    <tr>
-      <th width="25%">Goal</th>
-      <th width="25%">Tools</th>
-      <th width="25%">Key Actions</th>
-      <th width="25%">Result</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="4" bgcolor="#e6ffed">
-        <a href="https://github.com/Aleksei-Shashkov/immo-eliza-scraping-python_power_bi">immo-eliza-scraping-python_power_bi</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Collect Belgian real estate data from web resources for further analysis.</td>
-      <td>Python, BeautifulSoup, Selenium, Pandas.</td>
-      <td>Developed a scraper to handle pagination and extract property features (price, area, type).</td>
-      <td>Structured dataset with 10,000+ real estate records.</td>
-    </tr>
-    <tr>
-      <td colspan="4" bgcolor="#e6ffed">
-        <a href="https://github.com/Aleksei-Shashkov/immo-eliza-analysis">immo-eliza-analysis</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Data cleaning and Exploratory Data Analysis (EDA) of the Belgian real estate market.</td>
-      <td>Python, Pandas, Matplotlib, Seaborn.</td>
-      <td>Handled missing values, removed outliers, and analyzed correlations between features and price.</td>
-      <td>Visualization of key pricing factors across different Belgian regions.</td>
-    </tr>
-    <tr>
-      <td colspan="4" bgcolor="#e6ffed">
-        <a href="https://github.com/Aleksei-Shashkov/immo-eliza-ml">immo-eliza-ml</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Create a machine learning model to estimate real estate property values.</td>
-      <td>Python, Scikit-learn, XGBoost, Random Forest.</td>
-      <td>Feature engineering and selection of regression algorithms using cross-validation.</td>
-      <td>Trained model with ~80% accuracy (R²) for automated property valuation.</td>
-    </tr>
-    <tr>
-      <td colspan="4" bgcolor="#e6ffed">
-        <a href="https://github.com/Aleksei-Shashkov/immo-eliza-deployment">immo-eliza-deployment</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Deploy the predictive model as an interactive web service.</td>
-      <td>FastAPI, Streamlit, Docker, Render.</td>
-      <td>Built a REST API and a user interface for property parameter input.</td>
-      <td>Live web application providing instant price forecasts.</td>
-    </tr>
-    <tr>
-      <td colspan="4" bgcolor="#e6ffed">
-        <a href="https://github.com/Aleksei-Shashkov/Portfolio_Forecasting_and_Optimization">Portfolio_Forecasting_and_Optimization</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Analysis, optimization, and forecasting of investment portfolio returns.</td>
-      <td>Python, yfinance, Riskfolio-Lib, ARIMA, Streamlit.</td>
-      <td>Data acquisition via API, risk profile calculation, and stock price forecasting.</td>
-      <td>Recommendation system for asset allocation based on risk-return balance.</td>
-    </tr>
-    <tr>
-      <td colspan="4" bgcolor="#e6ffed">
-        <a href="https://github.com/Aleksei-Shashkov/Power-BI-Portfolio">Power-BI-Portfolio</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Visualize business metrics and create interactive BI reports.</td>
-      <td>Power BI, DAX, Power Query, SQL.</td>
-      <td>Constructed relational data models and calculated KPIs (including ArcelorMittal case).</td>
-      <td>Dashboards for identifying process bottlenecks and forecasting trends.</td>
-    </tr>
-    <tr>
-      <td colspan="4" bgcolor="#e6ffed">
-        <a href="https://github.com/Aleksei-Shashkov/Delivery-Market-Analysis">Delivery-Market-Analysis</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Analyze delivery service efficiency and identify market patterns.</td>
-      <td>SQL, Python, Folium, Seaborn.</td>
-      <td>Performed SQL-based cohort analysis and created geospatial heatmaps of order density.</td>
-      <td>Identification of growth zones and logistics route optimization based on data.</td>
-    </tr>
-    <tr>
-      <td colspan="4" bgcolor="#e6ffed">
-        <a href="https://github.com/Aleksei-Shashkov/Data-Analyst-Projects">Data-Analyst-Projects</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Financial analysis and unit economics calculation for business models.</td>
-      <td>MS Excel, Unit Economics, Statistics.</td>
-      <td>Modeled payback scenarios (CAC, LTR, Retention) for online services.</td>
-      <td>Forecast for reaching a 25% target margin and profit recovery plan.</td>
-    </tr>
-    <tr>
-      <td colspan="4" bgcolor="#e6ffed">
-        <a href="https://github.com/Aleksei-Shashkov/Azure-Data-Challenge">Azure-Data-Challenge</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Automation of infrastructure and data management in the cloud.</td>
-      <td>Azure, Docker, GitHub Actions.</td>
-      <td>Containerized applications and configured CI/CD pipelines for data processing.</td>
-      <td>Scalable cloud environment for automated analytical tasks.</td>
-    </tr>
-  </tbody>
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/Portfolio-Forecasting-Optimization">💰 Portfolio Forecasting and Optimization</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Development of a comprehensive interactive environment for portfolio analysis, optimization, and forecasting.</td>
+    <td><b>Tools</b><br>yfinance, pandas, numpy, Prophet, ARIMA, XGBoost, Streamlit, Docker.</td>
+    <td><b>Key Actions</b><br>Forecasting future prices, constructing optimal portfolios, calculating realized returns.</td>
+    <td><b>Result</b><br>AI-driven investment recommendation system balancing return and risk.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/Delivery-market-analysis-SQL">🛵 Delivery market analysis using SQL</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Identifying market trends and patterns from delivery service data using SQL.</td>
+    <td><b>Tools</b><br>Python (sqlite3, pandas, seaborn), SQL, Power BI, Folium.</td>
+    <td><b>Key Actions</b><br>Executed complex SQL queries, built visualizations, generated geospatial maps.</td>
+    <td><b>Result</b><br>Actionable insights for 10 key business questions regarding pricing and distribution.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/ImmoEliza-ML">📈 ImmoEliza – Real Estate Price Prediction</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Create a machine learning model for predicting property prices in Belgium.</td>
+    <td><b>Tools</b><br>Python (Scikit-learn, Pandas), XGBoost, Random Forest, Jupyter.</td>
+    <td><b>Key Actions</b><br>Preprocessing, hyperparameter tuning, cross-validation, and model comparison.</td>
+    <td><b>Result</b><br>Achieved ~80% accuracy with XGBoost, identifying key price drivers.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/Real-Time-Rail-Data-Azure">🚄 Real-Time Rail Data Analysis</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Interactive cloud dashboard for real-time Belgian rail transport data.</td>
+    <td><b>Tools</b><br>Azure, Python, SQL, API, ETL Pipeline.</td>
+    <td><b>Key Actions</b><br>Data mapping, normalization, cloud infrastructure automation, Upsert strategy.</td>
+    <td><b>Result</b><br>Automated pipeline transforming raw JSON into structured transit insights for Leuven.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      🏦 Banking-Analysis-PowerBI (ING Bank) *
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Monitor cross-platform vulnerabilities and track software lifecycle risks.</td>
+    <td><b>Tools</b><br>Power BI, DAX, Data Modeling, MS Excel.</td>
+    <td><b>Key Actions</b><br>Aggregated scan reports, normalized inconsistent data, designed multi-layered reporting.</td>
+    <td><b>Result</b><br>Interactive BI suite with risk heatmaps for vulnerable business units.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      🏭 HR Sick Leave Analysis (ArcelorMittal) *
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Identifying patterns and building predictive models for HR workforce insights.</td>
+    <td><b>Tools</b><br>Power BI (Power Query, DAX), Python, Prophet.</td>
+    <td><b>Key Actions</b><br>Row data preprocessing, data modeling, 90-day incidence rate forecasting.</td>
+    <td><b>Result</b><br>Identification of trends and significant bottlenecks in HR processes.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      📶 Advanced Telecom Analytics (Orange Belgium) *
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Automate subscriber lifecycle tracking and budget reconciliation using AI.</td>
+    <td><b>Tools</b><br>Databricks, Power BI, Power Query, LLM/AI Integration.</td>
+    <td><b>Key Actions</b><br>Databricks pipeline development, AI-powered root cause analysis, market data integration.</td>
+    <td><b>Result</b><br>Decision support system enabling strategic planning and churn tracking.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/Real-Estate-Deployment">🚀 Deployment of Real Estate App</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Developing a standalone web application for real estate valuation.</td>
+    <td><b>Tools</b><br>Python, Streamlit, Render, Docker, Pickle.</td>
+    <td><b>Key Actions</b><br>Loading ML model artifacts, collecting user input, calling predict methods.</td>
+    <td><b>Result</b><br>Live Streamlit web application for predicting real estate prices.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/Online-Cinema-Analysis">🎬 Online Cinema Business Model Evaluation</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Financial analysis and growth strategy modeling for a subscription business.</td>
+    <td><b>Tools</b><br>MS Excel, Financial Modeling, Unit Economics.</td>
+    <td><b>Key Actions</b><br>Calculating Unit Economics (Retention, CAC, Margin), 18-month scenario modeling.</td>
+    <td><b>Result</b><br>Identified parameters to achieve 25% target margin and recovery forecast.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/Student-Balance-SQL">🎓 Modeling Student Balance Dynamics via SQL</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Reconstructing student balance history by integrating payments and lessons.</td>
+    <td><b>Tools</b><br>SQL (PostgreSQL), Data Modeling, Time-series reconstruction.</td>
+    <td><b>Key Actions</b><br>Developed 4 core data marts, performed data quality audit, analyzed growth.</td>
+    <td><b>Result</b><br>Successfully modeled balance history and provided feedback for data engineers.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/Retail-AB-Test">🛒 Retail A/B Test Analysis</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Evaluate Push vs In-App banners and forecast financial impact of scaling.</td>
+    <td><b>Tools</b><br>Python (SciPy), MS Excel, Statistical Testing (T-Test).</td>
+    <td><b>Key Actions</b><br>Automated statistical processing, built dynamic ROI & MDE calculator.</td>
+    <td><b>Result</b><br>Identified high-performing locations and provided scalable Excel framework.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/ImmoEliza-Scraping">🏠 ImmoEliza real estate data scraping</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Collect high-quality real estate data from Immovlan.be.</td>
+    <td><b>Tools</b><br>Python (Selenium), Pandas, Trello.</td>
+    <td><b>Key Actions</b><br>Scraping dynamic content, building datasets from scratch, team collaboration.</td>
+    <td><b>Result</b><br>Structured CSV file ready for comprehensive data analysis.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/ImmoEliza-Analysis">🔎 ImmoEliza property data analysis</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Identify market insights and factors influencing Belgian property prices.</td>
+    <td><b>Tools</b><br>Python (Pandas, Seaborn, Scipy, Plotly).</td>
+    <td><b>Key Actions</b><br>Data cleaning, outlier detection, correlation analysis, regional comparisons.</td>
+    <td><b>Result</b><br>Identified most correlated variables and regional price distributions.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/GenAI-SQL-Assistant">✨ GenAI: Natural Language to SQL Assistant</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Convert simple English questions into executable SQL queries.</td>
+    <td><b>Tools</b><br>Python, LangChain, SQLite, LLM.</td>
+    <td><b>Key Actions</b><br>Context loading, AI SQL generation layer, data persistence, secure initialization.</td>
+    <td><b>Result</b><br>Functional AI assistant that bridges the gap between natural language and databases.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/ImmoEliza-Rental-Scraping">🔑 ImmoEliza — rental data scraping</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Collect rental data throughout Belgium from Immovlan.be.</td>
+    <td><b>Tools</b><br>Python (Pandas, Selenium).</td>
+    <td><b>Key Actions</b><br>Scraping structured rental data, dataset management.</td>
+    <td><b>Result</b><br>CSV file with 48 main columns of Belgian rental market data.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/Climate-Change-Stats">🌡️ Global Climate Change: Statistical Analysis</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Assess statistical significance of global warming trends since 1750.</td>
+    <td><b>Tools</b><br>Python (Statsmodels, Scipy), Matplotlib.</td>
+    <td><b>Key Actions</b><br>Hypothesis tests (t-tests), confidence intervals, slope analysis.</td>
+    <td><b>Result</b><br>Mathematical evidence of accelerated temperature rise since 1950.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/Openspace-Organizer">🏢 Openspace organizer</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Python tool to randomly assign team members to office desks.</td>
+    <td><b>Tools</b><br>Python (OOP).</td>
+    <td><b>Key Actions</b><br>Modular architecture design (Seat, Table), randomization logic, data ingestion.</td>
+    <td><b>Result</b><br>Automated seating coordinator handling dynamic team lists.</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="left">
+      <a href="https://github.com/Aleksei-Shashkov/Wikipedia-Scraper">🌐 Wikipedia Scraper</a>
+    </th>
+  </tr>
+  <tr>
+    <td><b>Goal</b><br>Extract and clean biographical data of world leaders from APIs and Wikipedia.</td>
+    <td><b>Tools</b><br>Python, BeautifulSoup, Requests, JSON.</td>
+    <td><b>Key Actions</b><br>Parsing country leaders API, cleaning HTML content, structured JSON saving.</td>
+    <td><b>Result</b><br>Data extraction tool transforming raw web data into structured datasets.</td>
+  </tr>
 </table>
+
+<p align="right"><i>* - This project is not public as it contains sensitive information</i></p>
 
 🏠 [**Immo Eliza — End-to-End Real Estate Analysis**](https://github.com/Aleksei-Shashkov/immo-eliza-deployment)  
 An end-to-end machine learning solution to predict property prices in the Belgian real estate market.  
