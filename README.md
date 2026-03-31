@@ -302,27 +302,6 @@
 </table>
 
 <p align="right"><i>* - This project is not public as it contains sensitive information</i></p>
----
-🏠 [**Immo Eliza — End-to-End Real Estate Analysis**](https://github.com/Aleksei-Shashkov/immo-eliza-deployment)  
-An end-to-end machine learning solution to predict property prices in the Belgian real estate market.  
-**Full Pipeline:** 
-  - 🕷️ **Scraping:** [Data Collection from Immovlan](https://github.com/Aleksei-Shashkov/immo-eliza-scraping)  
-  - 📊 **Analysis:** [EDA & Statistical Cleaning](https://github.com/Aleksei-Shashkov/immo-eliza-data-analysis)  
-  - 🤖 **ML Modeling:** [Price Prediction with Random Forest](https://github.com/Aleksei-Shashkov/immo-eliza-ml)  
-  - 🚀 **Deployment:** [FastAPI + Streamlit on Render](https://github.com/Aleksei-Shashkov/immo-eliza-deployment)
-
-    
-🚚 [**Delivery Market Analysis**](https://github.com/Aleksei-Shashkov/delivery-market-analysis)
-- 🔍 **Analytics:** Executed **Advanced SQL queries** to uncover market trends.
-- 📈 **Visuals:** Generated insights using **Python libraries (Matplotlib/Seaborn/Geospatial Maps (Folium))**.
-
-
-🏥 [**HR Sick Leave Analysis**](https://github.com/Aleksei-Shashkov/Arcelor_Mittal_HR-Sick-Leave-Analysis) — Identifying patterns in sick leave data to provide HR with actionable workforce insights with Power BI.
-- 📊 **Analytics:** Pattern recognition in sick leave data for HR optimization.  
-- 📈 **Visualization:** Created an interactive **Power BI Dashboard** to deliver actionable insights to stakeholders.
-
-
-☁️ [**Azure Data Challenge**](https://github.com/Aleksei-Shashkov/challenge-azure) — Managing data workflows and infrastructure automation within the Azure ecosystem.
 
 ---
 
