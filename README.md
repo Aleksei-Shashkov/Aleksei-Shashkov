@@ -252,6 +252,18 @@
     <td>Created an AI-powered "Translator" from plain English to SQL queries using LangChain.</td>
   </tr>
 
+<tr>
+    <th colspan="4" align="left">
+      🤖 <a href="https://github.com/Aleksei-Shashkov/RAG-for-PowerBI-Exam">RAG-for-PowerBI-Exam – Local AI Tutor (LLM & RAG)</a>
+    </th>
+  </tr>
+  <tr>
+    <td>Building a local, hallucination-free AI assistant to help students prepare for the PL-300 exam by retrieving context from official lab materials.</td>
+    <td>Python (LlamaIndex, ChromaDB), Ollama (Gemma 2 2B), HuggingFace (BGE Embeddings).</td>
+    <td>• <b>Data Ingestion:</b> Automated loading of lab instructions.<br>• <b>Vector Indexing:</b> Semantic search layer using BGE and ChromaDB.<br>• <b>Local Inference:</b> Gemma 2 2B via Ollama with streaming.</td>
+    <td>Created a functional local RAG system providing accurate, grounded answers in Russian based on English guides without internet.</td>
+  </tr>
+  
   <tr>
     <th colspan="4" align="left">
       🔑 <a href="https://github.com/Aleksei-Shashkov/ImmoEliza-Rental-Scraping">ImmoEliza — rental data scraping</a>
